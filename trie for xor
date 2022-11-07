@@ -1,4 +1,4 @@
-<h1>
+
 struct Node{
   Node* links[2];
   bool containsKey(int bit)
@@ -52,4 +52,4 @@ class Trie{
         return maxi;
     }
 };
-<h1>
+
